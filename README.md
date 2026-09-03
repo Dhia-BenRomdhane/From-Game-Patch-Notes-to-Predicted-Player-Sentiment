@@ -34,4 +34,4 @@ The pipeline was applied to *The Finals* (Embark Studios), analyzing 100,000+ Re
 
 ## Author
 
-Dhia — Master's in Business Analytics, Tunis Business School
+Dhia Ben Romdhane — Master's in Business Analytics, Tunis Business School
