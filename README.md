@@ -27,7 +27,7 @@ The pipeline was applied to *The Finals* (Embark Studios), analyzing 100,000+ Re
 ## Project Structure
 
 ```
-├── data/           # Reddit posts and patch notes results
+├── data/           # Reddit posts (a sample of 700 posts) and patch notes results
 ├── notebooks/      # Jupyter notebook with the full pipeline
 └── README.md
 ```
